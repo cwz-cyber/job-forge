@@ -1,0 +1,44 @@
+{
+  "candidate_name": null,
+  "evidence": [
+    {
+      "id": "education.undergraduate.major",
+      "category": "education",
+      "text": "本科专业为计算机科学与技术。",
+      "origin": "candidate",
+      "source_note": "用户固定背景"
+    },
+    {
+      "id": "education.master.major",
+      "category": "education",
+      "text": "硕士专业为机械工程。",
+      "origin": "candidate",
+      "source_note": "用户固定背景"
+    },
+    {
+      "id": "research.direction",
+      "category": "research",
+      "text": "研究方向为自适应装配故障检测。",
+      "origin": "candidate",
+      "source_note": "用户固定背景"
+    }
+  ],
+  "target_roles": [
+    "AI应用服务端开发",
+    "大模型Agent开发",
+    "LLM后端",
+    "军队文职",
+    "选调生",
+    "山东或河北地区国企事业单位"
+  ],
+  "preferred_regions": [
+    "山东",
+    "河北"
+  ],
+  "avoided_roles": [
+    "纯功能测试",
+    "纯运维"
+  ],
+  "travel_preference": "可接受合理出差"
+}
+

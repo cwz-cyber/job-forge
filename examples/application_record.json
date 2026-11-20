@@ -1,0 +1,19 @@
+{
+  "workflow": "application_ledger",
+  "style": "technical",
+  "application_id": "example-company-backend-role",
+  "plain_text": true,
+  "payload": {
+    "action": "record",
+    "record": {
+      "company": "示例公司",
+      "role": "后端开发",
+      "jd_link": null,
+      "applied_at": "2026-10-28",
+      "match_score": 80,
+      "role_type": "技术岗",
+      "status": "已投递",
+      "notes": "等待反馈"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "workflow": "form_answers",
+  "style": "institutional",
+  "application_id": "example-institution-role",
+  "plain_text": true,
+  "payload": {
+    "jd_text": "招聘机械工程相关专业硕士研究生，要求科研态度严谨、责任心强。",
+    "questions": [
+      {
+        "label": "请介绍你的科研经历",
+        "hint": "重点说明研究方向与个人职责",
+        "max_len": 300
+      },
+      {
+        "label": "为什么报考本岗位",
+        "max_len": 200
+      }
+    ]
+  }
+}
+

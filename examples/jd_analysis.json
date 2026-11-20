@@ -1,0 +1,10 @@
+{
+  "workflow": "jd_analysis",
+  "style": "technical",
+  "application_id": "example-company-agent-role",
+  "plain_text": false,
+  "payload": {
+    "jd_text": "岗位职责：\n- 负责大模型应用服务端与 Agent 工作流开发\n- 参与检索增强和服务稳定性建设\n任职要求：\n- 本科及以上学历，计算机或相关专业\n- 熟悉 Python 和常见后端框架"
+  }
+}
+
